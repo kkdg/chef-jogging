@@ -1,3 +1,3 @@
 file 'motd' do
-	content 'hi chef'
+	action :delete
 end
